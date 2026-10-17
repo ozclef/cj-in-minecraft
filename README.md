@@ -1,3 +1,52 @@
+# este youtuber CREADOR DE CONTENIDO usa CLAUDE  - para mod CJ gta sa in minecraft 
+
+
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/02e6b619-e296-4d3e-ad85-05794442f3dc" />
+
+<img width="693" height="282" alt="image" src="https://github.com/user-attachments/assets/a506f0d5-ac2b-4e45-9fba-74478bfe0353" />
+
+
+```txt
+OYE HERMANO EXCELENTE !! Mas que tutorial de youtube,  que dejes GITHUB! YA HICE FORK! 
+
+me ayudarías mucho.. haciendo solamente lo de SKATE 3 mmod ! o skate para el GTA SA!
+
+debido a que las PC limitadas, a mi ni me jala el minecraft XD
+
+Entonces sóo el gta SA 2005 PC solamente, uso windows 10 TINY10, 
+
+celeron y 4GB RAM; ni sSD aun tengo xD 
+
+JAJJAJA checa mi canal y mi github coo ahi te aparecerá en tu repo, 
+
+entonces meter JUEGOS MODERNOS o funciones para gta sa que limite me SERIA LO EMJRO! 
+NAETA uq eespero que tu puedas sacarle todo lo econonico, y yo solo quiero jugar jajajja,
+
+INCLUSO POR EJEMPLO DESDE CUANDO QUERÍA 
+
+: 
+METER LAS FUNCIONES DE RESIDENT EVIL 4 REMAK 2023, al RE4 2005 origianl,
+
+así el apuntado! , el movimeinto, controles, EL PARRY derechito al limite grafico del juego BASE CLASICO!
+
+ME AYUDAS UN CHINGO CARNAL !
+
+AHI SUPER 
+
+no descargo el repo hermano XD 
+
+DIRECTO FORK porque así se ve que eres el ./   CHIDO 
+
+```
+
+
+
+
+
+
+----
+
+
 # CJ in Minecraft
 
 ![CJ from GTA San Andreas in a Minecraft forest](docs/images/cover.jpg)
